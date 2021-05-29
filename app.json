@@ -1,0 +1,12 @@
+{
+  "name": "react_native_button_press_animation",
+  "displayName": "react_native_button_press_animation",
+  "expo": {
+    "name": "react_native_button_press_animation",
+    "slug": "react_native_button_press_animation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
